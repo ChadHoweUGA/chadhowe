@@ -2,10 +2,10 @@ name: "Chad Howe, Ph.D."
 navbar:
   title: "HOME"
   left:
+    - text: "Research"
+      href: research.html
     - text: "Resources"
       href: resources.html
-    - text: "Test"
-      href: first_observations.html
     - text: "Basic Workflow"
       href: basic_workflow.html
     - text: "Getting Sophisticated"
