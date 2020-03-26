@@ -4,10 +4,10 @@ navbar:
   left:
     - text: "Research"
       href: research.html
+    - text: "Students"
+      href: students.html
     - text: "Resources"
       href: resources.html
-    - text: "Basic Workflow"
-      href: basic_workflow.html
     - text: "Getting Sophisticated"
       href: getting_sophisticated.html
     - text: "Your Turn"
