@@ -64,19 +64,20 @@ Put in your css file or directly in rmarkdown--->
 </style>
  
 <div class="col2">
-**Column 1**
-
-<img src="images/Rmd_cheatsheet.png" width="150px">
-
-<br>
-<br>
-
 **Contact Information**
 
 - Office: 218 Gilbert Hall
 - Phone: (706) 583-0792 (Office)
 - Fax: (706) 542-3287
 - [ORCID](https://orcid.org/0000-0002-3044-1443)
+
+<br>
+<br>
+
+**Contact Information**
+
+<img src="images/Rmd_cheatsheet.png" width="250px">
+
 </div>
 
 
