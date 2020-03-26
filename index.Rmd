@@ -33,19 +33,6 @@ Current students are encouraged to consult the [Resources page of my website](ht
 
 ## Contact Information
 
-### Address
-
-Department of Romance Languages
-
-Department of Linguistics
-
-218 Gilbert Hall
-
-Athens, GA 30602
-
-USA
-
-
 <!---From http://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown:
 Put in your css file or directly in rmarkdown--->
 <style>
@@ -58,7 +45,8 @@ Put in your css file or directly in rmarkdown--->
  
 <div class="col2">
 
-- Office: 218 Gilbert Hall
+- Office: [218 Gilbert Hall](https://goo.gl/maps/8dMQbqdPuK94ttTY6)
+- Mail: Dept. of Romance Languages, 218 Gilbert Hall, Athens, GA 30602-1815
 - Phone: (706) 583-0792 (Office)
 - Fax: (706) 542-3287
 - [ORCID](https://orcid.org/0000-0002-3044-1443)
@@ -67,7 +55,7 @@ Put in your css file or directly in rmarkdown--->
 <br>
 
 
-<img src="images/ChadHowe1.jpg" width="250px">
+<img src="images/ChadHowe1.jpg" width="200px">
 
 </div>
 
