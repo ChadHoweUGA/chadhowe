@@ -66,16 +66,17 @@ Put in your css file or directly in rmarkdown--->
 <div class="col2">
 **Column 1**
 
-- note `<div class="col2">` and `</div>`
-- what beautiful bullet points
+<img src="images/Rmd_cheatsheet.png" width="150px">
+
 <br>
 <br>
 
-**Column 2**
+**Contact Information**
 
-- I have 3 bullet points here
-- which means to align with the left column
-- I added a `<br>` there
+- Office: 218 Gilbert Hall
+- Phone: (706) 583-0792 (Office)
+- Fax: (706) 542-3287
+- [ORCID](https://orcid.org/0000-0002-3044-1443)
 </div>
 
 
