@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Resources"
       href: resources.html
-    - text: "First Observations"
+    - text: "Test"
       href: first_observations.html
     - text: "Basic Workflow"
       href: basic_workflow.html
