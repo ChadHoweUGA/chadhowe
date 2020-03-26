@@ -55,6 +55,10 @@ To find a copy of a thesis or dissertation, go to the [UGA repository](http://db
 - **Ninosca Pérez Minchola** (MA, Romance Languages), Thesis Title: *El rol de la cortesía en entrevistas políticas conflictivas en la televisión peruana* (2007)
 - **Anne Rutter Sekanina** (MA, Romance Languages), Thesis Title: *Address form selection amongst urban Spanish youth: The influence of the Cheli sociolect* (2007)
 
+
+----
+
+
 <!--
 Building websites uses the same reproducible workflow you can use for your analyses and collaborations. It is very iterative. You can do it all from RStudio, with a combination of clicking or typing commands as you feel comfortable. 
 
