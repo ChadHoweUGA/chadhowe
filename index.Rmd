@@ -1,12 +1,14 @@
 ---
 title: "Making free websites with RStudio's R Markdown"
-author:  "[Julie Lowndes](https://github.com/jules32) at [NCEAS](https://www.nceas.ucsb.edu/), 12/14/16"
+author:  "[Chad Howe](https://chadhoweuga.github.io/lchowe/) at [UGA](https://rom.uga.edu/directory/people/chad-howe), 12/14/16"
 output:
   html_document:
     fig_width: 1
 ---
 
 ----
+
+I am Associate Professor of Spanish Linguistics with a joint appointment in the Department of Romance Languages and the Department of Linguistics at the University of Georgia. I am also faculty in the Latin American and Caribbean Studies Institute where I serve as the coordinator for the Quechua Language Program.
 
 It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
 
