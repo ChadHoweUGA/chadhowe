@@ -45,13 +45,6 @@ Athens, GA 30602
 
 USA
 
-### Other
-
-- Phone: (706) 583-0792 (Office)
-- Phone: (706) 542-1075 (Romance Languages Office)
-- Fax: (706) 542-3287
-- [ORCID](https://orcid.org/0000-0002-3044-1443)
-
 
 <!---From http://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown:
 Put in your css file or directly in rmarkdown--->
@@ -64,7 +57,6 @@ Put in your css file or directly in rmarkdown--->
 </style>
  
 <div class="col2">
-**Contact Information**
 
 - Office: 218 Gilbert Hall
 - Phone: (706) 583-0792 (Office)
@@ -74,9 +66,8 @@ Put in your css file or directly in rmarkdown--->
 <br>
 <br>
 
-**Contact Information**
 
-<img src="images/Rmd_cheatsheet.png" width="250px">
+<img src="images/ChadHowe1.jpg" width="250px">
 
 </div>
 
