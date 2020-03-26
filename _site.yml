@@ -1,6 +1,6 @@
 name: "Chad Howe, Ph.D."
 navbar:
-  title: "HOME"
+  title: "Chad Howe"
   left:
     - text: "Research"
       href: research.html
@@ -8,10 +8,6 @@ navbar:
       href: students.html
     - text: "Resources"
       href: resources.html
-    - text: "Getting Sophisticated"
-      href: getting_sophisticated.html
-    - text: "Your Turn"
-      href: your_turn.html
 output_dir: "."
 output:
   html_document:
