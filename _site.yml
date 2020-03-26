@@ -1,6 +1,6 @@
 name: "Chad Howe, Ph.D."
 navbar:
-  title: "Chad Howe"
+  title: "Chad Howe, Ph.D."
   left:
     - text: "Research"
       href: research.html
