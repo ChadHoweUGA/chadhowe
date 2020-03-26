@@ -35,7 +35,7 @@ To find a copy of a thesis or dissertation, go to the [UGA repository](http://db
 - **Mohammad Al Jutaily** (PhD, Linguistics), Dissertation Title: *The inﬂuence of linguistic and non-linguistic factors on the variation of Arabic marked consonants in the speech of Gulf Pidgin Arabic* (2018; [Assistant Professor at Qassim University](https://www.qu.edu.sa/)
 - **Ryan Dekker** (MA, Linguistics), Thesis Title: *Income Effects on a Speech Community: Oconee County within Northeastern Georgia* (2018, [PhD Student in English at Arizona State Univerisity](https://english.asu.edu/content/ryan-dekker))
 - **Philip Limerick** (PhD, Romance Languages), Dissertation Title: *Subject expression in a Southeastern U.S. Mexican Community* (2018)
-- **Shannon McDonough** (MA, Romance Languages), Thesis Title: *La gramaticalización de la estructura* (NO) IMPORTAR + MINIMIZADOR; *La negación y las palabras tabúes en español* (2018, Spanish Teacher at Cedar Shoals High School, Athens, GA)
+- **Shannon McDonough** (MA, Romance Languages), Thesis Title: *La gramaticalización de la estructura* (NO) IMPORTAR + MINIMIZADOR; *La negación y las palabras tabúes en español* (2018, [Spanish Teacher at Cedar Shoals High School](https://www.clarke.k12.ga.us/domain/841), Athens, GA)
 - **Jessica Tiegs** (MA, Romance Languages), Thesis Title: *Language variation and grammaticalization: The case of* estar + que *in Northern Peru* (2018, [PhD Student in Spanish and Portuguese at the University of Arizona](https://spanish.arizona.edu/people/jtiegs))
 - **Joshua Hummel** (MA, Linguistics), Thesis Title: *Conflict’s connotation: a study of* protest *and* riot *in contemporary news media* (2017, PhD Student in Sociolinguistics at North Carolina State University)
 - **Christa Rampley** (MA, Linguistics), Thesis Title: Ratchet: *An etymological origin and social dispersion theory* (2017, [Instructor of English at UGA](https://www.english.uga.edu/directory/people/christa-rampley))
@@ -170,5 +170,5 @@ You can do this by:
 
 <!---note that the ``` ``` syntax above renders text as a code-looking block--->
 
--->
+
 
