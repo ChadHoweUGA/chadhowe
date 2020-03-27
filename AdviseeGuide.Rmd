@@ -48,7 +48,21 @@ Finally, I need to make two additional points regarding letters. First, unless y
 ### Tech Savvy
 In completing your thesis or dissertation, you should make every effort to learn new skills that will be useful to in field. This includes research skills (e.g., quantitative analysis), software, and equipment. Starting in **Fall 2020**, all advisees will be required to use the newly revised [UGA Dissertation LaTeX Template](https://github.com/DigiUGA/UGA-Dissertation-LaTeX-Template), developed by Joey Stanley and Jonathan Crum. There are lots of resources for learning how to use LaTeX, including some available through the [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d). For the purposes of working with me as an advisee, knowledge of the following resources will be required:
 
+1. **LaTeX**: As you will find out, there are plenty of ways to **LaTeX** (yes, it's a verb!). One particularly easy way is to use [Overleaf](https://www.overleaf.com/) which has a number of useful features that make getting started with **LaTeX** relatively easy. You can also **LaTeX** on your local machine (i.e. your laptop) using editors like [Atom](https://atom.io/) or [TexMaker](https://www.xm1math.net/texmaker/).
+2. [Zotero](https://www.zotero.org/) (or some similar citation management system): Keeping track of what will end up being many references requires some tool designed for this purpose, especially since you will be using **LaTeX**. I recommend Zotero but there are others (e.g., Endnote).
+3. [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/): At this point, using R and RStudio are standard in the field. There are **numerous** books about using R in linguistics <!--(e.g., \citealt{gries_statistics_2013}, \citealt{desagulier_corpus_2017}, and \citealt{winter_statistics_2020}), in addition to other resources available for learning more about R.-->
+4. [ELAN](https://archive.mpi.nl/tla/elan): This is an annotation tool for audio and video recordings created by the great folks at the [Language Archive](https://archive.mpi.nl/tla/}{Language Archive.
+
+This (woefully inadequate) list should provide you with a sense of my expectations regarding the skills you should be learning. There will be many other resources that will be useful as you navigate your research and teaching interests. If you have no background in coding or using programs like these, welcome to the club.  Remember that now is the time for you to expose yourself to as many new ideas and techniques as possible. Take this time to push yourself into new areas, even it requires moving out of your tech-comfort zone. I strongly encourage you to interact with me and your fellow students in learning more about these resources. If you would like for me (or someone else) to arrange a workshop that covers any of these resources, I am more than happy to do that.
+
+
 ----
+
+## Academic Requirements
+
+### For MA Students
+
+For information regarding the MA in Hispanic Linguistics, please read carefully both the [Degree Requirements](http://www.rom.uga.edu/ma-hispanic-linguistics) and the [Romance Languages Graduate Handbook](http://www.rom.uga.edu/graduate-handbook), in particular [section III.2](http://www.rom.uga.edu/graduate-handbook#III2). This section provides a ``Suggested Timetable to Complete the M.A. program'', which is normally done in two years. For students in the Department of Linguistics, you should read the information regarding the [MA (thesis)](https://ling.franklin.uga.edu/graduate/ma-thesis-introduction) or [MA (non-thesis)](https://ling.franklin.uga.edu/graduate/ma-non-thesis-introduction). The [Checklist in Section III.2.g](http://www.rom.uga.edu/graduate-handbook#III2) explains the specific requirements for completion of the MA, most of which apply both to students in Romance Languages and  Linguistics. Students from the Department of Linguistics should also consult the website regarding [Graduate Advising](http://linguistics.uga.edu/graduate-advising) as well as the [Linguistics Graduate Student Handbook](https://ling.franklin.uga.edu/sites/default/files/inline-files/Graduate%20Handbook%20Revised%20Feb%202020.pdf). In addition to this information, you should also consider the following:
 
 
 ## Recent/Upcoming
