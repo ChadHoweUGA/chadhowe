@@ -105,7 +105,7 @@ Here are a few things you have to keep in mind if you're considering doing a PhD
 ----
 
 
-# Program Requirements
+# Program Requirements {.tabset}
 
 If you're planning on asking me to be your Major Professor, you will be required to meet the following deadlines. **Failure to meet these deadlines may result in the postponement of the completion of your degree or termination of your program**.
 
@@ -126,12 +126,37 @@ There's a good chance that you will have already chosen the other members of you
 ### Complete fieldwork
 If you plan on working with me, chances are that you'll be asked to gather data of your own. So, you should plan on completing this part of your thesis research during the summer between your <font size="3" color="red">1st Spring semester and your 2nd Fall Semester</font>.
 
-### Pass M.A. Examinations
-#### MA in ROML (from Handbook)
+### Pass M.A. Examinations {.tabset}
+#### MA in ROML
 "The M.A. written examinations will be given three times a year: in the <font size="3" color="red">2nd week of November</font>; in the <font size="3" color="red">5th week of the Spring Semester</font>; and in <font size="3" color="red">the 12th week of the Spring Semester</font>. Students choosing to write a thesis must take the M.A. written examinations in November. The examination in the 5th week of the Spring Semester will be reserved for students choosing the non-thesis option and students who failed the exam in November. The examination in the 12th week of Spring Semester will be reserved for students who failed the examination in the 5th week of Spring Semester. The Graduate Coordinator will inform students in writing of the date of the exams and ask them in turn to inform him or her of their intention to take the exam. Previous exam questions will be kept on file and made available to students."
 
 #### MA in Linguistics
 For Masters students in the Department of Linguistics, there are also two options: [M.A. (Thesis)](https://www.linguistics.uga.edu/ma-thesis-introduction) and [M.A. (Non-Thesis)](https://www.linguistics.uga.edu/ma-non-thesis-introduction). The Thesis option does not require an exam, but the Non-Thesis option does. For more information regarding the Final Examination for M.A. (non-thesis) Students, please consult [the departmental website](https://www.linguistics.uga.edu/ma-non-thesis-final-exam).
+
+
+### File appropriate paperwork
+There are a number of steps that are involved in moving towards completing your requirements for the M.A., some of which will be accomplished in the Spring Semester of your 2nd year (e.g., Application for Graduation). One of the forms that should be completed by the end of your 3rd semester is the Program of Study Form. See the [Graduate School Website](https://grad.uga.edu/index.php/current-students/forms/) for more details.
+
+### Secure approval of thesis prospectus
+For MA students in ROML, you must prepare a prospectus outlining your thesis research and describing the main points that will be discussed (see section III.2.d. of the Handbook). This prospectus will be read by your Advisory Committee and discussed following your MA examinations. You must submit a complete draft of your prospectus <font size="3" color="red">the end of your third semester</font> (i.e. in December). Although there is no formal requirement of a prospectus for MA students in the Department of Linguistics, you will be required to prepare a proposal if you are working with me. A draft of this proposal must be submitted by <font size="3" color="red">the end of your third semester</font>.
+
+### Submit 1st Draft of your thesis
+You will need to turn in a complete draft of your thesis (i.e. one that includes the body of the document, the bibliography, tables, etc., not just a collection of notes) by the beginning of your last semester in the program. The expectation is that uyou will be submitting chapters of your thesis before this time. These chapters will be reviewed by me and your other committee members (see section III.2.d. of the Graduate Student handbook). The complete draft should be submitted by the <font size="3" color="red">last Friday of January of your final semester</font>.
+
+### Submit 1st Draft of your thesis
+You will need to turn in a complete draft of your thesis (i.e. one that includes the body of the document, the bibliography, tables, etc., not just a collection of notes) by the beginning of your last semester in the program. The expectation is that uyou will be submitting chapters of your thesis before this time. These chapters will be reviewed by me and your other committee members (see section III.2.d. of the Graduate Student handbook). The complete draft should be submitted by the <font size="3" color="red">last Friday of January of your final semester</font>.
+
+### Submit revised draft of thesis
+The revising process takes time and will undoubtedly require several passes. You will be expected to have finished a complete revised draft no later than <font size="3" color="red">the end of February</font>.
+
+### Schedule a defense
+All the final paperwork required for your graduation is due by the last week in April (see [Graduate School Deadlines](https://grad.uga.edu/index.php/current-students/important-dates-deadlines/). In order to provide proper time for any necessary revisions between your defense date and the date for completing all degree-related requirements, we will plan to have your defense in <font size="3" color="red">early to mid April</font>. This should provide you with ample time to apply any of the changes resulting from the defense and review by your Advisory Committee.
+
+### Submit Thesis Draft for Review by Advisory Committee
+You will need to submit the 'final' version of your thesis to your committee <font size="3" color="red">no later than two weeks before the defense date</font>. This is done to provide your advisory committee enough time to provide comments and feedback on the final product. Also, it is at this point that your committee will sign (or not) the ["Approval for Master's Thesis and Final Oral Examination"](http://www.grad.uga.edu/forms&publications/student/body_apprform.pdf) for your thesis.
+
+### Format Check for Graduate School
+See the [Graduate School website](http://www.grad.uga.edu/academics/deadlines.html) for more details.
 
 ## PhD Students
 
