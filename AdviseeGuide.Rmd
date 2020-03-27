@@ -3,6 +3,7 @@ title: "Advisee Guide"
 output: 
   html_document:
     toc: true
+    number_sections: true
     toc_float: true
 ---
 
@@ -12,28 +13,28 @@ output:
 
 ----
 
-## Expectations {#id}
+# Expectations {#id}
 Below you will find details regarding my expectations as a major professor. Our mutual agreement to work together as advisor/advisee entails that you accept the conditions outlined throughout this document. Please remember that these expectations go both ways and that you should feel free to ask me about my approach to advisees.
 
 Choosing a major professor is an important first step in completing your graduate education. Keep in mind that if you have not had a class with a particular faculty member, it is not likely that this professor will be a suitable advisor. In fact, if you have not had a class with me, DO NOT ask me to be your major professor; I will say no. In [Section](#Expectations), I have provided some questions that you might ask as you consider who your major professor might be. This decision will be different for MA and PhD students, though some of the same criteria may apply.
 
-### Collaborative Research
+## Collaborative Research
 For anyone considering asking me to be his/her major professor, you will be expected to participate in some type of collaborative research with me. Collaborative research could include, for example, a conference presentation, a publication, or a joint grant application. MA students who choose to complete a thesis will be strongly encouraged to choose a research topic that complements my own research agenda. In linguistics, working with collaborative projects has become increasingly common, and I encourage this type of work with all my students. You should take advantage of your time as a graduate student to learn how to work on group research.
 
-### Presenting papers/posters
+## Presenting papers/posters
 In addition to working with me collaboratively, I expect you to present your research (either individually, with me, or in collaboration with other scholars) in academic settings. The first place to do so is at the **Romance Linguistics Colloquium** (held year-round) and the **Linguistics Colloquium** (held on Fridays in the Spring semester), each featuring talks by students and sometimes faculty from UGA and other institutions. Any student, MA or PhD, working with me is expected to give at least one presentation in the RLC related to his/her thesis/dissertation research; **this is not optional**. Moreover, there are a number of conferences that would be good venues for your work, e.g., the *Hispanic Linguistics Colloquium*, *Workshop on Spanish Sociolinguistics*, *Linguistic Symposium on Romance Languages*, *Southeastern Conference on Languages and Literatures*, *New Ways of Analyzing Variation*, *Annual LSA Meeting*, among many others. Presenting at academic conferences is one of the best ways to meet other students and faculty interested in your topic and to get feedback on your research. UGA has a number of resources available to students attending conferences, including departmental funds and Graduate School support.
 
-### Teaching
+## Teaching
 If you are a graduate assistant at UGA, you will have a number of duties related to the teaching of your classes. Although I won't have a supervisory role in your teaching, I'm happy to offer advice as needed, such as it is. During each semester, my intention is to observe your teachoing at least once, just to have an idea of your teaching style so that I can address this in my letters of recommendation. Also, if you'd like for me to attend a class or would like to sit in on one of mind, just let me know. I've learned a lot about teaching from watching my students and am always looking to learn new approaches.
 
 You should also be prepared to treat your teaching (like your research) as another opportunity for professional development. As such, I highly recommend consulting with the [UGA Center for Teaching and Learning](https://ctl.uga.edu/) which offers, among many other programs, a wide range of [opportunities for Graduate Students](https://ctl.uga.edu/grad-student/). Again, my primary focus regarding your education at UGA is helping you develop and execute a successful research program. But you should always look out for ways of improving your teaching.
 
-### Submitting and Revising
+## Submitting and Revising
 At some point in your program (preferably sooner rather than later), I will give you a schedule specific to your program. This schedule will include dates for turning in different pieces of your MA thesis or dissertation. Regarding submission of materials, please keep in mind the following. Before any materials (in particular, chapters of a thesis or a dissertation) are submitted to the other members of your advisory committee, they will need to be approved by me. I will need to provide feedback on your work before you send it out to others. When you do submit something to me (and to others), it should be as polished as possible. **Do not** submit a set of bulleted notes and expect to get feedback. Finally, regarding turn-around times (see also section **section:SelectChair**), my goal is to give you feedback on your work **no later than two weeks after submission**. I will make every effort to get your work returned to you in a timely manner.
 
 Also, you should feel free (and in fact obliged) to send me other submissions that you might be working on. In particular, I will be happy to read drafts of conference abstracts and journal/proceedings submissions. At the very least, you should have one other set of eyes reviewing your work before you send it out. I (and your committee members) will certainly be available to give you feedback on these items.
 
-### Letters of Recommendation
+## Letters of Recommendation
 I am more than happy to provide letters of recommendation for my advisees, including those for whom I am not the major professor. However, please keep in mind that preparing multiple letters requires a considerable amount of time, even if the content of these letters is largely repeated for different applications. Thus, for any given letter writing venture that requires more than **five (5)** individual letters (e.g., letters for academic positions), students will be expected to use a dossier service, like [Interfolio]( http://career.uga.edu/graduate_school/interfolio). This requirement applies to anyone (advisees and non-advisees) who may request that I provide a letter of recommendation.
 
 All requests for letters should be done with **at least three weeks of advance notice**. More substantive letters (e.g., letters for job applications), require more time; please keep this in mind as you plan your requests. When you ask for a letter (or letters), I'll need the following:
@@ -45,63 +46,131 @@ All requests for letters should be done with **at least three weeks of advance n
 
 Finally, I need to make two additional points regarding letters. First, unless you're certain that I can provide a generally positive letter, then you should reconsider asking me for one. The better I know you and your work, the more specific the letter will be. But if you don't believe that I will serve as a good or accurate recommender, then please ask someone else. Second, I welcome and appreciate ``Gentle Reminders'' as needed, particularly as a deadline approaches.
 
-### Tech Savvy
+## Tech Savvy
 In completing your thesis or dissertation, you should make every effort to learn new skills that will be useful to in field. This includes research skills (e.g., quantitative analysis), software, and equipment. Starting in **Fall 2020**, all advisees will be required to use the newly revised [UGA Dissertation LaTeX Template](https://github.com/DigiUGA/UGA-Dissertation-LaTeX-Template), developed by Joey Stanley and Jonathan Crum. There are lots of resources for learning how to use LaTeX, including some available through the [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d). For the purposes of working with me as an advisee, knowledge of the following resources will be required:
 
 1. **LaTeX**: As you will find out, there are plenty of ways to **LaTeX** (yes, it's a verb!). One particularly easy way is to use [Overleaf](https://www.overleaf.com/) which has a number of useful features that make getting started with **LaTeX** relatively easy. You can also **LaTeX** on your local machine (i.e. your laptop) using editors like [Atom](https://atom.io/) or [TexMaker](https://www.xm1math.net/texmaker/).
 2. [Zotero](https://www.zotero.org/) (or some similar citation management system): Keeping track of what will end up being many references requires some tool designed for this purpose, especially since you will be using **LaTeX**. I recommend Zotero but there are others (e.g., Endnote).
 3. [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/): At this point, using R and RStudio are standard in the field. There are **numerous** books about using R in linguistics <!--(e.g., \citealt{gries_statistics_2013}, \citealt{desagulier_corpus_2017}, and \citealt{winter_statistics_2020}), in addition to other resources available for learning more about R.-->
-4. [ELAN](https://archive.mpi.nl/tla/elan): This is an annotation tool for audio and video recordings created by the great folks at the [Language Archive](https://archive.mpi.nl/tla/}{Language Archive.
+4. [ELAN](https://archive.mpi.nl/tla/elan): This is an annotation tool for audio and video recordings created by the great folks at the [Language Archive](https://archive.mpi.nl/tla/).
 
 This (woefully inadequate) list should provide you with a sense of my expectations regarding the skills you should be learning. There will be many other resources that will be useful as you navigate your research and teaching interests. If you have no background in coding or using programs like these, welcome to the club.  Remember that now is the time for you to expose yourself to as many new ideas and techniques as possible. Take this time to push yourself into new areas, even it requires moving out of your tech-comfort zone. I strongly encourage you to interact with me and your fellow students in learning more about these resources. If you would like for me (or someone else) to arrange a workshop that covers any of these resources, I am more than happy to do that.
 
 
 ----
 
-## Academic Requirements
+# Academic Requirements
 
-### For MA Students
+## MA Students
 
 For information regarding the MA in Hispanic Linguistics, please read carefully both the [Degree Requirements](http://www.rom.uga.edu/ma-hispanic-linguistics) and the [Romance Languages Graduate Handbook](http://www.rom.uga.edu/graduate-handbook), in particular [section III.2](http://www.rom.uga.edu/graduate-handbook#III2). This section provides a ``Suggested Timetable to Complete the M.A. program'', which is normally done in two years. For students in the Department of Linguistics, you should read the information regarding the [MA (thesis)](https://ling.franklin.uga.edu/graduate/ma-thesis-introduction) or [MA (non-thesis)](https://ling.franklin.uga.edu/graduate/ma-non-thesis-introduction). The [Checklist in Section III.2.g](http://www.rom.uga.edu/graduate-handbook#III2) explains the specific requirements for completion of the MA, most of which apply both to students in Romance Languages and  Linguistics. Students from the Department of Linguistics should also consult the website regarding [Graduate Advising](http://linguistics.uga.edu/graduate-advising) as well as the [Linguistics Graduate Student Handbook](https://ling.franklin.uga.edu/sites/default/files/inline-files/Graduate%20Handbook%20Revised%20Feb%202020.pdf). In addition to this information, you should also consider the following:
 
+- **All** linguistics students (regardless of their particular areas of interest) should complete the [Internal Review Board (IRB) training](http://www.ovpr.uga.edu/hso/training/) required for working with human subjects. Ideally, you should do this during your **first semester**.
+- If you're planning to do fieldwork or experiments, I strongly urge you to apply for funding (see Section **part:Funding**). Even if you don't receive any funds, the experience of applying will be beneficial.
+- Even though studying or working in the summer is not strictly speaking required, it is an ideal time to complete data collection or experiment development/implementation. In fact, taking courses over the summer can be a good way to get a jump on your coursework. In addition to occasional offerings from Romance Languages, the Statistics Department routinely offers **STAT 6210/6220 and 6315**, both of which offer students comprehensive coverage of the types of quantitative methods used in linguistic research. For a more specific introduction, however, I strongly recommend that students take \textbf{LING 4400/6400}, "Quantitative Methods in Linguistics."
+- Students working with me, as either MA or PhD students, will be *required* to present their research at some forum held on campus, such as the Romance Languages Colloquium or the Linguistics Colloquium. MA students will be expected to present in the fall or spring of their second year.
 
-## Recent/Upcoming
-- 2020 (April-<font size="3" color="red">CANCELED!</font>) Howe, Chad, Sarah Hubbel, and Bethany Bateman. Transfer in discourse: The case of Quechua *na*. [10th International Workshop on Spanish Sociolinguistics](https://wss10.modlangs.gatech.edu/). Georgia Tech. [Abstract](https://drive.google.com/open?id=10MYJy8qPeAyFwEAuGn-P2qIMF9NR-7gu)
-- 2020 (April-<font size="3" color="red">CANCELED!</font>) Howe, Chad and Camila Lívio. Intensification in diachrony:A corpus analysis of *muito* and *bem* in Portuguese. [50th Linguistic Symposium on Romance Languages](http://sites.utexas.edu/lsrl50/2019/09/05/info-post/). University of Texas at Austin. [Abstract](https://drive.google.com/open?id=1jHdtj10c6dRzxZbuxXHE4e1XCxOvh9nK)
-- 2019 (October) Intensiﬁcation in Brazilian Portuguese: muito, bem and beyon.Poster presentation at New Ways of Analyzing Variation 48. University of Oregon. (with Camila Lívio)
-- 2019 (October) From placeholder to hesitation marker: na in Quechua/Spanish bilingual speech.Poster presentation at New Ways of Analyzing Variation 48. University of Oregon. (with Bethany Bateman and Sarah Hubbel) [Poster](https://drive.google.com/open?id=1dhE9oBcFdeLwC_QZfTeoKwfAy1I0g7GN) [Examples](https://drive.google.com/open?id=1kgGVrpn-CRjObB5n_UxhMMwimIkIDYu8)
-- Howe, Chad and Philip Limerick. (October 2018). "The PRET/PP distinction in US Spanish: Evidence for contact-induced change?" Hispanic Linguistics Symposium 2018. University of Texas at Austin.
-- Howe, Chad and Camila Lívio. (October 2018). "Innovation and change in the language of social media: Evaluative markers in Spanish and Portuguese." Hispanic Linguistics Symposium 2018. University of Texas at Austin.(with Camila Lívio)
-- Howe, Chad. (September 2018). "A corpus analysis of category change: Spanish temporal constructions as syntactic hybrids." American Association for Corpus Linguistics. Georgia State University, Atlanta, GA.
-- Howe, Chad. 2018. Grammaticalization. In Kimberley Geeslin (ed.), *The Cambridge Handbook of Spanish Linguistics*, 603-624. Cambridge: Cambridge University Press.
-- Howe, Chad. 2017. Pretérito perfecto compuesto y reducción de auxiliares en español: ¿evidencia de gramaticalización secundaria? *Moenia* 23. 221-237.
+Below is a (non-exhaustive) list of theses that I have directed:^[For an exhaustive list of the theses I've directed, along with abstracts, see the [Student Section of my personal website for more examples](https://chadhoweuga.github.io/chowe/students/}{Student Section of my personal website for more examples)].
 
-## Current Projects
-
-### Incipient language shift in a southern Latino community
-This project was developed in collaboration with the Roswell Voices project, which began in 2002 as a partnership between researchers at the University of Georgia (Professors William A. Kretzschmar, Jr. and Sonja Lanehart) and the Roswell Folk and Heritage Bureau, to document language and life in the community. Preliminary work indicates extended contact-induced language shift, observed in both the English and Spanish of bilingual communities (Wilson 2013, Limerick 2014). We have argued that the Mid-Atlantic US in general and Roswell, GA in particular represent an ideal test case for studying emergent speech communities in that it displays several of the benchmarks of demographic change characteristic of American urbanization during the end of the twentieth century. The combination of demographic and linguistic factors exhibited in Roswell offers a compelling new case study in our attempt to answer questions about the emergence of language patterns in the presence of relative social, ethnic, and linguistic heterogeneity. In the proposed study, we assume the perspective of individual speakers as loci for the adaptation and innovation of social practices, in this case manifested by language variables. The aggregate affect of individual speaker behavior is then proposed as a way of representing the language of a speech community. By observing the linguistic behavior of Spanish speaking residents in Roswell, this study takes advantage of a timely opportunity to observe patterns of language use as a function of the social practices of disparate communities of language users.
-
-#### Papers/Presentations:
-
-1.  Limerick, Philip. 2017. Language Contact in the US Southeast: The Case of Spanish Subject Expression in an Emerging Bilingual Community in Georgia. *Spanish in Context*. 14.1:53-77.
-2.  Howe, Chad and Philip Limerick. 2016. The PRET/PP distinction in Roswell Spanish. Seventh Annual Workshop on Immigrant Languages in the Americas. University of Georgia.
-3.  Limerick, Philip. Variable Clitic Placement in U.S. Spanish. Paper forthcoming in *Proceedings of Hispanic Linguistics Symposium*.
-4.  Howe, Chad and Philip Limerick. 2016. Past reference in Roswell Spanish: The PRET/PP distinction and beyond. 8th International Workshop on Spanish Sociolinguistics. Universidad de Puerto Rico.
-5.  Limerick, Philip. 2014. Spanish subject expression in Roswell, Georgia: Dialect formation in an emerging bilingual community. University of Georgia MA Thesis.
+- **Ryan Dekker** (MA, Linguistics), Thesis Title: *Income Effects on a Speech Community: Oconee County within Northeastern Georgia* (2018)
+- **Bethany Bateman** (MA, Romance Languages), Thesis Title: *Reportative evidentiality in Wounaan meu-Spanish bilinguals: A comparative examination of* dice(n) que (2015)
+- **Philip Limerick** (MA, Romance Languages), Thesis Title: *Spanish subject expression in Roswell, Georgia: Dialect formation in an emerging bilingual community* (2014)
+- **Kristen Fredriksen** (MA, Linguistics), Thesis Title: *Constraints on perfect auxiliary contraction: Evidence from spoken American English* (2012)
+- **Kerry Steinberg** (MA, Romance Languages), Thesis Title: *Language Use, Language Attitudes and Mobility: The Case of the Rural and Urban Areas of Coronel Oviedo, Paraguay* (2010)
+- **William Pennington** (MA, Romance Languages), Thesis Title: *Split antecedents and pronominal expressions in Spanish* (2008)
+- **Ninosca Pérez Minchola** (MA, Romance Languages, Thesis Title: *El rol de la cortes\'ia en entrevistas políticas conflictivas en la televisión peruana* (2007)
 
 
-### Indigenous languages in Latin America: Contact, Shift, and Maintenance
-In coordination with the Latin American Indigenous Languages Initiative, this project seeks to provide a forum for faculty and students interested in working with documenting and researching indigenous languages spoken in Central and South America. We are particularly interested in the linguistic and social outcomes of the contact between these languages and Spanish (and Portuguese). Our broader objectives with this project are to: (a) provide documentation support for researchers working with endangered languages in Latin American, (b) create corpus resources for use in scholarly and educational endeavors, and (c) provide faculty and students with resources for studying (and possibly teaching) these languages.
+### A note on Thesis vs. Non-Thesis
 
-#### Papers/Presentations:
+The choice between doing the thesis or the non-thesis option of the MA is one that should be guided largely by your experiences in your first semester (or two) at UGA. After arriving at UGA, you should talk to your professors and get an idea of what you might be able to do for thesis research. Keep in mind that you're not necessarily expected to come up with a thesis topic completely on your own. Ideally, your research would relate to/interface with/contribute to the work being conducted by the faculty in the department. If you're considering moving onto a PhD after the MA, you should consider your decision of doing a thesis very carefully. Although the trend as of late seems to be that MA programs in Spanish Linguistics (and some in General Linguistics) do not require a thesis, completing a thesis-like project can be a good way of gauging your interest and ability in the field. Moreover, since the idea of a thesis is to have you produce a piece of research that is of sufficient quality to present at academic conferences and to publish in scholarly journals, then this work could be used as part of your application to PhD programs (should you be interested in pursuing a career in academics). In short, I urge you to keep your options open; you never know when you might be struck by inspiration and decide that research on the complex nature of variable past reference in Spanish is indeed your true calling.
 
-1.  Howe, Chad. 2016. Women's health and cultural intervention in Cusco, Peru: A cooperative partnership. UGA Office of International Education Global Research Collaboration Grant. ($7,600; in collaboration with Dr. Pamela Orpinas and Dr. Daron Ferris at Augusta University and CerviCusco)
-2.  Howe, Chad and Bethany Bateman. Spanish in the Quechua classroom: Challenges and Opportunities. Symposium on Indigenous Languages and Cultures /Symposium on Teaching and Learning Indigenous Languages of Latin America, Columbus, Ohio.
-3.  Hubbel, Sarah and Chad Howe. Third language acquisition of Quechua mid vowels by English L1/Spanish L2 speakers. Symposium on Indigenous Languages and Cultures /Symposium on Teaching and Learning Indigenous Languages of Latin America. Columbus, Ohio,
-4.  Bateman, Bethany and Chad Howe. 2016. Runasimita yachasunchis: Best practices in Quechua language education. 19th Annual Conference on the Americas. Milledgeville, GA.
-5.  Howe, Chad. 2015. Plurality in Quechua: Some (socio)linguistic questions. Plenary Lecture at the Linguistics Society at UGA annual conference. Athens, GA.
-6.  Bove, Kate and Chad Howe. 2015. Grammatical Borrowing as an indicator of dual identity: the case of plural marking in Quechua-Spanish bilinguals. Forging Linguistic Identities. Towson University.
-7.  Bateman, Bethany. 2015. *Reportative evidentiality in Wounaan meu-Spanish bilinguals: A comparative examination of* dice(n) que. University of Georgia Masters Thesis.
+## PhD Students
+
+So, you've decided to do a PhD. You will likely find yourself in the position of asking yourself (and having others ask you) "Why are you doing this?". This is normal and will continue throughout your career in academia. The more relevant question to ask yourself at this point is "How am I going to get this done?". For students in Romance Languages, you should consult the [Degree Requirements for the PhD in Hispanic Linguistics](http://www.rom.uga.edu/ph-d-hispanic-linguistics) as well as the [relevant sections of the RL Graduate Student Handbook](http://www.rom.uga.edu/graduate-handbook#III3). Once again, you should pay close attention to the sections outlining the Suggested Timetable (III.3.g) and the Checklist (III.3.h). For students in the Department of Linguistics, you should consult the following information provided in [this section of the departmental website](https://ling.franklin.uga.edu/graduate/phd-introduction}{this section of the departmental website).
+
+Like any life choice, choosing to do a PhD should be approached with considerable care and preparation. There are **many** resources on the internet regarding this question, and I would suggest going through them before you commit. It's also a good idea to take a look at resources like the *Chronicle of Higher Education*, which has resources regarding the academic job market. I also recommend a document entitled [How to Be a Successful PhD Student](http://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf) (by Mark Dredze at Johns Hopkins University and Hanna M. Wallach University of Massachusetts Amherst). In addition to many other helpful comments, Dredze and Wallach note that "[g]etting a PhD takes a long time and a great deal of dedication and hard work. Unless you really want it, you will not finish the PhD." A healthy dose of practical consideration is helpful before embarking on a program of doctoral study.
+
+Here are a few things you have to keep in mind if you're considering doing a PhD in general and with me more specifically:
+
+- As mentioned in section **part:Expectations**, you should make every effort during your doctoral studies to expose yourself to new ideas. This includes (but is not limited to) attending lectures, learning new research techniques/methods, engaging in collaborative research with faculty and other students, and taking courses (when possible) that are not necessarily required by your program of study.
+- Students working with me, as either MA or PhD students, will be **required** to present their research at the Romance Languages Colloquium and the Linguistics Colloquium. MA students will be expected to present in the fall or spring of their second year. PhD students will present at least once in the RLC.
+- Applying for funds to conduct research is part and parcel of what you'll be doing in academics. And though getting a research grant is time-consuming and often frustrating, it is absolutely essential to your formation as a scholar to solicit funding for your work. In section **part:Funding**, I explain some of the resources available for research funding. Please have a look at these resources. If you know of any that aren't included, feel free to let me know.
+- As a PhD student, you will be focusing more and more on an exceptionally small piece of the larger realm of scholarly exploration. However, this is not an excuse to avoid taking courses in other linguistic disciplines (or even from other areas of the humanities or social sciences). Indeed, some of the best research is conducted at the interfaces between areas of study (e.g., linguistics and sociology) and should be considered as viable areas of inquiry. However ...
+- If you find yourself interested in some topic that you know to be well outside my wheelhouse (which includes a lot of issues), it's probably better that you ask someone else to be your Major Professor. More generally, you should know what the interests of your potential advisor and committee members are so that you can begin to plan your thesis project accordingly.
+- Invest some effort in reading about how to accomplish your degree objectives. Some oldies but goodies include <!-- \cite{bolker_writing_1998} and \cite{macaulay_surviving_2011}, but there are many others. -->
+
+
+
+----
+
+
+# Program Requirements
+
+If you're planning on asking me to be your Major Professor, you will be required to meet the following deadlines. **Failure to meet these deadlines may result in the postponement of the completion of your degree or termination of your program**.
+
+## MA Students
+
+### Choose a major professor
+If you're planning to ask me to direct your thesis, you need to make this request no later than <font size="3" color="red">the end of your 2nd semester</font>the end of your 2nd semester} (Important dates are indicated in red.). You should first take some time to come and talk to me to discuss the type of project you're interested in doing.
+
+### Selecting a thesis topic
+This, of course, can be done in conjunction with the selection of your Major Professor. If you are working with me, you will need to submit, in writing, a proposed thesis topic (2 pages) no later than <font size="3" color="red">the end of your 2nd (MA) semester</font>.
+
+### Apply for funding, IRB, etc. for MA Thesis-related projects
+If your project requires data collection with human subjects (e.g., interviews, experiments, etc.), you will need to submit the required paperwork to the [IRB] (https://research.uga.edu/hrpp/irb/). Also, if you need to travel, you should apply for funding during your <font size="3" color="red">2nd semester</font>.
+
+### Selection of Advisory Committee
+There's a good chance that you will have already chosen the other members of your Advisory Committee. If not, we'll need to finalize your selection by the end of your <font size="3" color="red">2nd semester</font>.
+
+### Complete fieldwork
+If you plan on working with me, chances are that you'll be asked to gather data of your own. So, you should plan on completing this part of your thesis research during the summer between your <font size="3" color="red">1st Spring semester and your 2nd Fall Semester</font>.
+
+### Pass M.A. Examinations
+#### MA in ROML (from Handbook)
+"The M.A. written examinations will be given three times a year: in the <font size="3" color="red">2nd week of November</font>; in the <font size="3" color="red">5th week of the Spring Semester</font>; and in <font size="3" color="red">the 12th week of the Spring Semester</font>. Students choosing to write a thesis must take the M.A. written examinations in November. The examination in the 5th week of the Spring Semester will be reserved for students choosing the non-thesis option and students who failed the exam in November. The examination in the 12th week of Spring Semester will be reserved for students who failed the examination in the 5th week of Spring Semester. The Graduate Coordinator will inform students in writing of the date of the exams and ask them in turn to inform him or her of their intention to take the exam. Previous exam questions will be kept on file and made available to students."
+
+#### MA in Linguistics
+For Masters students in the Department of Linguistics, there are also two options: [M.A. (Thesis)](https://www.linguistics.uga.edu/ma-thesis-introduction) and [M.A. (Non-Thesis)](https://www.linguistics.uga.edu/ma-non-thesis-introduction). The Thesis option does not require an exam, but the Non-Thesis option does. For more information regarding the Final Examination for M.A. (non-thesis) Students, please consult [the departmental website](https://www.linguistics.uga.edu/ma-non-thesis-final-exam).
+
+## PhD Students
+
+
+----
+
+----
+
+
+# You and Your Major Professor
+
+## Selecting a Chair and Comittee
+
+## Questions to consider in selecting an advisor
+
+
+----
+
+
+
+# A Guide to Your Research
+
+## Managing your time
+
+## Research
+
+
+----
+
+
+# Funding resources
+
+
+
+----
+
+
+# Guidelines for Good Practice in Graduate Education
+
 
 [Section](#expectations)
 
