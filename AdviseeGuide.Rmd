@@ -1,0 +1,96 @@
+---
+title: "Advisee Guide"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+----
+
+<center>``Remember that your major professor is a busy person. If he [or she] isn't, get a different major professor.'' *Anonymous*</center>
+
+----
+
+## Expectations {#id}
+Below you will find details regarding my expectations as a major professor. Our mutual agreement to work together as advisor/advisee entails that you accept the conditions outlined throughout this document. Please remember that these expectations go both ways and that you should feel free to ask me about my approach to advisees.
+
+Choosing a major professor is an important first step in completing your graduate education. Keep in mind that if you have not had a class with a particular faculty member, it is not likely that this professor will be a suitable advisor. In fact, if you have not had a class with me, DO NOT ask me to be your major professor; I will say no. In [Section](#Expectations), I have provided some questions that you might ask as you consider who your major professor might be. This decision will be different for MA and PhD students, though some of the same criteria may apply.
+
+### Collaborative Research
+For anyone considering asking me to be his/her major professor, you will be expected to participate in some type of collaborative research with me. Collaborative research could include, for example, a conference presentation, a publication, or a joint grant application. MA students who choose to complete a thesis will be strongly encouraged to choose a research topic that complements my own research agenda. In linguistics, working with collaborative projects has become increasingly common, and I encourage this type of work with all my students. You should take advantage of your time as a graduate student to learn how to work on group research.
+
+### Presenting papers/posters
+In addition to working with me collaboratively, I expect you to present your research (either individually, with me, or in collaboration with other scholars) in academic settings. The first place to do so is at the **Romance Linguistics Colloquium** (held year-round) and the **Linguistics Colloquium** (held on Fridays in the Spring semester), each featuring talks by students and sometimes faculty from UGA and other institutions. Any student, MA or PhD, working with me is expected to give at least one presentation in the RLC related to his/her thesis/dissertation research; **this is not optional**. Moreover, there are a number of conferences that would be good venues for your work, e.g., the *Hispanic Linguistics Colloquium*, *Workshop on Spanish Sociolinguistics*, *Linguistic Symposium on Romance Languages*, *Southeastern Conference on Languages and Literatures*, *New Ways of Analyzing Variation*, *Annual LSA Meeting*, among many others. Presenting at academic conferences is one of the best ways to meet other students and faculty interested in your topic and to get feedback on your research. UGA has a number of resources available to students attending conferences, including departmental funds and Graduate School support.
+
+### Teaching
+If you are a graduate assistant at UGA, you will have a number of duties related to the teaching of your classes. Although I won't have a supervisory role in your teaching, I'm happy to offer advice as needed, such as it is. During each semester, my intention is to observe your teachoing at least once, just to have an idea of your teaching style so that I can address this in my letters of recommendation. Also, if you'd like for me to attend a class or would like to sit in on one of mind, just let me know. I've learned a lot about teaching from watching my students and am always looking to learn new approaches.
+
+You should also be prepared to treat your teaching (like your research) as another opportunity for professional development. As such, I highly recommend consulting with the [UGA Center for Teaching and Learning](https://ctl.uga.edu/) which offers, among many other programs, a wide range of [opportunities for Graduate Students](https://ctl.uga.edu/grad-student/). Again, my primary focus regarding your education at UGA is helping you develop and execute a successful research program. But you should always look out for ways of improving your teaching.
+
+### Submitting and Revising
+At some point in your program (preferably sooner rather than later), I will give you a schedule specific to your program. This schedule will include dates for turning in different pieces of your MA thesis or dissertation. Regarding submission of materials, please keep in mind the following. Before any materials (in particular, chapters of a thesis or a dissertation) are submitted to the other members of your advisory committee, they will need to be approved by me. I will need to provide feedback on your work before you send it out to others. When you do submit something to me (and to others), it should be as polished as possible. **Do not** submit a set of bulleted notes and expect to get feedback. Finally, regarding turn-around times (see also section **section:SelectChair**), my goal is to give you feedback on your work **no later than two weeks after submission**. I will make every effort to get your work returned to you in a timely manner.
+
+Also, you should feel free (and in fact obliged) to send me other submissions that you might be working on. In particular, I will be happy to read drafts of conference abstracts and journal/proceedings submissions. At the very least, you should have one other set of eyes reviewing your work before you send it out. I (and your committee members) will certainly be available to give you feedback on these items.
+
+### Letters of Recommendation
+I am more than happy to provide letters of recommendation for my advisees, including those for whom I am not the major professor. However, please keep in mind that preparing multiple letters requires a considerable amount of time, even if the content of these letters is largely repeated for different applications. Thus, for any given letter writing venture that requires more than **five (5)** individual letters (e.g., letters for academic positions), students will be expected to use a dossier service, like [Interfolio]( http://career.uga.edu/graduate_school/interfolio). This requirement applies to anyone (advisees and non-advisees) who may request that I provide a letter of recommendation.
+
+All requests for letters should be done with **at least three weeks of advance notice**. More substantive letters (e.g., letters for job applications), require more time; please keep this in mind as you plan your requests. When you ask for a letter (or letters), I'll need the following:
+
+1. Complete information about the program or job that you are applying for: This includes description of the job or the name of the specific degree program / study abroad program and a link to the program website, the name and address of the person to whom the letter should be sent [if it is not a standard online recommendation form, other special instructions concerning the letter, and the <font size="3" color="red">deadline</font>.
+2. Copies of other documents that you may be submitting along with your application (e.g., a CV or resumé, writing sample): These can be rough drafts. If you are applying for an academic position you must include a draft of your cover letter.
+3. Names and dates for the courses you took with me along with some indication of the work that you did in theses courses (e.g., titles of final papers): This will help in making sure that my memory doesn't get in the way of providing helpful (and accurate) details in the letter.
+4. Any additional information that might be useful: It's often the case that I make mention in my letters of extracurricular accomplishments. If you feel that there's something you'd like for me to address, then you should certainly provide me with additional materials.
+
+Finally, I need to make two additional points regarding letters. First, unless you're certain that I can provide a generally positive letter, then you should reconsider asking me for one. The better I know you and your work, the more specific the letter will be. But if you don't believe that I will serve as a good or accurate recommender, then please ask someone else. Second, I welcome and appreciate ``Gentle Reminders'' as needed, particularly as a deadline approaches.
+
+### Tech Savvy
+In completing your thesis or dissertation, you should make every effort to learn new skills that will be useful to in field. This includes research skills (e.g., quantitative analysis), software, and equipment. Starting in **Fall 2020**, all advisees will be required to use the newly revised [UGA Dissertation LaTeX Template](https://github.com/DigiUGA/UGA-Dissertation-LaTeX-Template), developed by Joey Stanley and Jonathan Crum. There are lots of resources for learning how to use LaTeX, including some available through the [UGA DigiLab](https://digi.uga.edu/digilab/#1544564021635-6ae22572-cb2d). For the purposes of working with me as an advisee, knowledge of the following resources will be required:
+
+----
+
+
+## Recent/Upcoming
+- 2020 (April-<font size="3" color="red">CANCELED!</font>) Howe, Chad, Sarah Hubbel, and Bethany Bateman. Transfer in discourse: The case of Quechua *na*. [10th International Workshop on Spanish Sociolinguistics](https://wss10.modlangs.gatech.edu/). Georgia Tech. [Abstract](https://drive.google.com/open?id=10MYJy8qPeAyFwEAuGn-P2qIMF9NR-7gu)
+- 2020 (April-<font size="3" color="red">CANCELED!</font>) Howe, Chad and Camila Lívio. Intensification in diachrony:A corpus analysis of *muito* and *bem* in Portuguese. [50th Linguistic Symposium on Romance Languages](http://sites.utexas.edu/lsrl50/2019/09/05/info-post/). University of Texas at Austin. [Abstract](https://drive.google.com/open?id=1jHdtj10c6dRzxZbuxXHE4e1XCxOvh9nK)
+- 2019 (October) Intensiﬁcation in Brazilian Portuguese: muito, bem and beyon.Poster presentation at New Ways of Analyzing Variation 48. University of Oregon. (with Camila Lívio)
+- 2019 (October) From placeholder to hesitation marker: na in Quechua/Spanish bilingual speech.Poster presentation at New Ways of Analyzing Variation 48. University of Oregon. (with Bethany Bateman and Sarah Hubbel) [Poster](https://drive.google.com/open?id=1dhE9oBcFdeLwC_QZfTeoKwfAy1I0g7GN) [Examples](https://drive.google.com/open?id=1kgGVrpn-CRjObB5n_UxhMMwimIkIDYu8)
+- Howe, Chad and Philip Limerick. (October 2018). "The PRET/PP distinction in US Spanish: Evidence for contact-induced change?" Hispanic Linguistics Symposium 2018. University of Texas at Austin.
+- Howe, Chad and Camila Lívio. (October 2018). "Innovation and change in the language of social media: Evaluative markers in Spanish and Portuguese." Hispanic Linguistics Symposium 2018. University of Texas at Austin.(with Camila Lívio)
+- Howe, Chad. (September 2018). "A corpus analysis of category change: Spanish temporal constructions as syntactic hybrids." American Association for Corpus Linguistics. Georgia State University, Atlanta, GA.
+- Howe, Chad. 2018. Grammaticalization. In Kimberley Geeslin (ed.), *The Cambridge Handbook of Spanish Linguistics*, 603-624. Cambridge: Cambridge University Press.
+- Howe, Chad. 2017. Pretérito perfecto compuesto y reducción de auxiliares en español: ¿evidencia de gramaticalización secundaria? *Moenia* 23. 221-237.
+
+## Current Projects
+
+### Incipient language shift in a southern Latino community
+This project was developed in collaboration with the Roswell Voices project, which began in 2002 as a partnership between researchers at the University of Georgia (Professors William A. Kretzschmar, Jr. and Sonja Lanehart) and the Roswell Folk and Heritage Bureau, to document language and life in the community. Preliminary work indicates extended contact-induced language shift, observed in both the English and Spanish of bilingual communities (Wilson 2013, Limerick 2014). We have argued that the Mid-Atlantic US in general and Roswell, GA in particular represent an ideal test case for studying emergent speech communities in that it displays several of the benchmarks of demographic change characteristic of American urbanization during the end of the twentieth century. The combination of demographic and linguistic factors exhibited in Roswell offers a compelling new case study in our attempt to answer questions about the emergence of language patterns in the presence of relative social, ethnic, and linguistic heterogeneity. In the proposed study, we assume the perspective of individual speakers as loci for the adaptation and innovation of social practices, in this case manifested by language variables. The aggregate affect of individual speaker behavior is then proposed as a way of representing the language of a speech community. By observing the linguistic behavior of Spanish speaking residents in Roswell, this study takes advantage of a timely opportunity to observe patterns of language use as a function of the social practices of disparate communities of language users.
+
+#### Papers/Presentations:
+
+1.  Limerick, Philip. 2017. Language Contact in the US Southeast: The Case of Spanish Subject Expression in an Emerging Bilingual Community in Georgia. *Spanish in Context*. 14.1:53-77.
+2.  Howe, Chad and Philip Limerick. 2016. The PRET/PP distinction in Roswell Spanish. Seventh Annual Workshop on Immigrant Languages in the Americas. University of Georgia.
+3.  Limerick, Philip. Variable Clitic Placement in U.S. Spanish. Paper forthcoming in *Proceedings of Hispanic Linguistics Symposium*.
+4.  Howe, Chad and Philip Limerick. 2016. Past reference in Roswell Spanish: The PRET/PP distinction and beyond. 8th International Workshop on Spanish Sociolinguistics. Universidad de Puerto Rico.
+5.  Limerick, Philip. 2014. Spanish subject expression in Roswell, Georgia: Dialect formation in an emerging bilingual community. University of Georgia MA Thesis.
+
+
+### Indigenous languages in Latin America: Contact, Shift, and Maintenance
+In coordination with the Latin American Indigenous Languages Initiative, this project seeks to provide a forum for faculty and students interested in working with documenting and researching indigenous languages spoken in Central and South America. We are particularly interested in the linguistic and social outcomes of the contact between these languages and Spanish (and Portuguese). Our broader objectives with this project are to: (a) provide documentation support for researchers working with endangered languages in Latin American, (b) create corpus resources for use in scholarly and educational endeavors, and (c) provide faculty and students with resources for studying (and possibly teaching) these languages.
+
+#### Papers/Presentations:
+
+1.  Howe, Chad. 2016. Women's health and cultural intervention in Cusco, Peru: A cooperative partnership. UGA Office of International Education Global Research Collaboration Grant. ($7,600; in collaboration with Dr. Pamela Orpinas and Dr. Daron Ferris at Augusta University and CerviCusco)
+2.  Howe, Chad and Bethany Bateman. Spanish in the Quechua classroom: Challenges and Opportunities. Symposium on Indigenous Languages and Cultures /Symposium on Teaching and Learning Indigenous Languages of Latin America, Columbus, Ohio.
+3.  Hubbel, Sarah and Chad Howe. Third language acquisition of Quechua mid vowels by English L1/Spanish L2 speakers. Symposium on Indigenous Languages and Cultures /Symposium on Teaching and Learning Indigenous Languages of Latin America. Columbus, Ohio,
+4.  Bateman, Bethany and Chad Howe. 2016. Runasimita yachasunchis: Best practices in Quechua language education. 19th Annual Conference on the Americas. Milledgeville, GA.
+5.  Howe, Chad. 2015. Plurality in Quechua: Some (socio)linguistic questions. Plenary Lecture at the Linguistics Society at UGA annual conference. Athens, GA.
+6.  Bove, Kate and Chad Howe. 2015. Grammatical Borrowing as an indicator of dual identity: the case of plural marking in Quechua-Spanish bilinguals. Forging Linguistic Identities. Towson University.
+7.  Bateman, Bethany. 2015. *Reportative evidentiality in Wounaan meu-Spanish bilinguals: A comparative examination of* dice(n) que. University of Georgia Masters Thesis.
+
+[Section](#expectations)
+
+----
+
+
