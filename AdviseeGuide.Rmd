@@ -126,11 +126,11 @@ There's a good chance that you will have already chosen the other members of you
 ### Complete fieldwork
 If you plan on working with me, chances are that you'll be asked to gather data of your own. So, you should plan on completing this part of your thesis research during the summer between your <font size="3" color="red">1st Spring semester and your 2nd Fall Semester</font>.
 
-### Pass M.A. Examinations {.tabset}
-#### MA in ROML
+### Pass M.A. Examinations
+#### MA in ROML {-}
 "The M.A. written examinations will be given three times a year: in the <font size="3" color="red">2nd week of November</font>; in the <font size="3" color="red">5th week of the Spring Semester</font>; and in <font size="3" color="red">the 12th week of the Spring Semester</font>. Students choosing to write a thesis must take the M.A. written examinations in November. The examination in the 5th week of the Spring Semester will be reserved for students choosing the non-thesis option and students who failed the exam in November. The examination in the 12th week of Spring Semester will be reserved for students who failed the examination in the 5th week of Spring Semester. The Graduate Coordinator will inform students in writing of the date of the exams and ask them in turn to inform him or her of their intention to take the exam. Previous exam questions will be kept on file and made available to students."
 
-#### MA in Linguistics
+#### MA in Linguistics {-}
 For Masters students in the Department of Linguistics, there are also two options: [M.A. (Thesis)](https://www.linguistics.uga.edu/ma-thesis-introduction) and [M.A. (Non-Thesis)](https://www.linguistics.uga.edu/ma-non-thesis-introduction). The Thesis option does not require an exam, but the Non-Thesis option does. For more information regarding the Final Examination for M.A. (non-thesis) Students, please consult [the departmental website](https://www.linguistics.uga.edu/ma-non-thesis-final-exam).
 
 

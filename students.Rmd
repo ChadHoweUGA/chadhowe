@@ -12,7 +12,7 @@ If you’re interested in working with me, please take a look at [my current Adv
 
 ----
 
-## Important Information
+# Basic Program Information
 - [UGA Grad School Forms](http://grad.uga.edu/index.php/current-students/forms/)
 - [UGA Grad School Calendar](http://grad.uga.edu/index.php/current-students/important-dates-deadlines/)
 - [Romance Languages Graduate Handbook](http://rom.uga.edu/graduate-handbook)
@@ -21,6 +21,7 @@ If you’re interested in working with me, please take a look at [my current Adv
 
 ----
 
+# Advisees {.tabset}
 
 ## Current Advisees
 
