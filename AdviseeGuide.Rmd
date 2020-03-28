@@ -6,6 +6,9 @@ output:
     toc: true
     number_sections: true
     toc_float: true
+params:
+    n: 100
+    d: !r Sys.Date()
 ---
 
 ----
@@ -352,4 +355,7 @@ The following are guidelines for preparing your thesis or dissertation prospectu
 
 ----
 
+Last updated on **`r params$d`**.
+
+----
 
