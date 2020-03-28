@@ -339,11 +339,11 @@ The following are guidelines for preparing your thesis or dissertation prospectu
 2.	**Review of the literature** (4-6 pages) In this section, you will briefly describe the studies that have been carried out on this topic and upon which your own research is based.  For each study, include what the purpose was, what the methodology was (who the participants were, what the instruments were, how the data were analyzed), and what the results were.  Use this section to justify your research and specifically, point out how these studies are related to yours and what your study will do to answer questions about the topic that these studies do not answer.  For the prospectus, 6-8 studies should be reviewed.  For the thesis, you will expand this section to 10-12 studies. At the end of this section, it should clear to your readers what the open questions in the literature are.
 3.	**Research questions and/or hypotheses** (1/2-1 page): You should have 2-3 questions that will guide your research.  If there has been enough research done on the topic or if you are choosing an experimental or quasi-experimental design, you can postulate hypotheses, which should result from the questions.  For example, a research question might be:  *Do Spanish/English bilinguals have higher rates of overt subject expression in Spanish than monolinguals?*  And the hypothesis set up to answer the question would be:  *Spanish/English bilinguals have higher rates of overt subject expression due to contact with English*.  The hypotheses have to be worded so that they are testable and falsifiable.  Also, define any terms that have not been defined in the literature review.
 4.	**Methodology** (2-3 pages):  Include in this section, the following:
-			+ **Participants** (age, language level or knowledge, gender, social or economic level if related to research questions).
-			+ **Context** (i.e. where the data will be gathered)
-			+ **Instruments** (if you have already worked out the data collection instrument(s), attach this as an appendix)
-			+  Procedure for collecting data
-			+ Procedures for analysis including any statistical analyses that may be applied
+      + **Participants** (age, language level or knowledge, gender, social or economic level if related to research questions).
+      + **Context** (i.e. where the data will be gathered)
+      + **Instruments** (if you have already worked out the data collection instrument(s), attach this as an appendix)
+      +  Procedure for **collecting** data
+      + Procedures for **analysis** including any statistical analyses that may be applied
 5. **Expected results and conclusions** (1/2-1 page): Discuss to what extent you expect to answer your research questions and/or prove or disprove your hypotheses.
 6. **References**: For linguistics and applied linguistics thesis, the [LSA format is preferred](http://www.linguisticsociety.org/files/style-sheet.pdf) but you can also use the APA or MLA formats. 
 
