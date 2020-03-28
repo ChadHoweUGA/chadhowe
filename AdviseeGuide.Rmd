@@ -270,6 +270,26 @@ These questions have been adapted from a document prepared by the Graduate Schoo
 ----
 
 
+## Guidelines for Good Practice in Graduate Education {-}
+
+The expectations for each graduate student are to develop an understanding of and capacity for scholarship, independent judgment, academic rigor, and intellectual honesty. As such, graduate faculty are responsible for fostering and facilitating the student's professional development to meet these expectations.^[Guidelines are for instructive purposes and do not constitute statements of institutional policy or requirements. Approved by the University of Georgia Graduate Council on April 18, 2007.]
+
+Guiding principles for which both graduate faculty and students share responsibility:
+
+1. Ensure that the relationship between faculty and students and among students is constructive, encourages freedom of inquiry, and fosters mutual respect.
+2. Work respectfully with diverse faculty, students and peers regardless of race, gender, religion, sexual orientation, or national origin.
+3. Act with professionalism, ethical conduct, and personal accountability during all academic endeavors and interactions among students and faculty.
+3. Make explicit the expectations of graduate students and faculty for relevant elements of graduate student activities; assess progress in meeting these expectations and provide/use constructive feedback.
+4. Put forth sufficient effort to ensure the graduate student completes the degree and assistantship responsibilities in timely manner.
+5. Agree that students are expected to take initiative in learning and carrying out other responsibilities (versus expecting faculty to provide everything). Faculty are expected to facilitate learning and professional development (versus expecting students to be able to carry out all responsibilities, e.g., teaching with no guidance).
+6. Have reasonable expectations for the time available for graduate student-related tasks. Faculty and students have many responsibilities. Thus, both parties need to respect the others' need for sufficient time to complete all responsibilities.
+7. Avoid conflicts of interest of any nature between faculty and graduate students.
+
+
+
+----
+
+
 # A Guide to Your Research
 
 > **_Note_** This section is still very much under construction [insert animated icon of worker here].
@@ -298,18 +318,34 @@ Transitioning into a graduate program (especially if you're teaching) involves a
 If you plan to work with me, chances are that you will be encouraged/required (1) to conduct fieldwork as part of your thesis/dissertation project and (2) attend conferences. All these endeavors cost money, but fortunately there are some funds available for you (as well as access to the types of equipment you'll need to actually conduct your work). Here are a few possible sources that you should consider when planning your research projects.
 
 1. **Funded projects**: In some cases, your professors will have projects that have been funded by internal or external grant agencies. Sometimes, funds are ear-marked for paying graduate students to do tasks related to the project (e.g., transcribing data, travel, etc.). You should inquire with your professors about these types of opportunities. For the most part, if a particular professor has a project with funding for graduate student participation, s/he will come looking for a possible RA.
-2. [Tinker Graduate Research Award](\href{http://www.lacsiuga.org/resources/#students): These grants are administered through the [Latin American and Caribbean Studies Institute](https://lacsi.uga.edu/) (though they aren't always referred to as Tinker Grants) and are designed to fund research for the completion of MA thesis or doctoral dissertations. The deadline for submitting applications is usually early to mid Spring. If you would like a sample application or comments on your application, just ask me or one of your other professors; we are always glad to help.
+2. [Tinker Graduate Research Award](https://lacsi.uga.edu/funding-available-tinker-graduate-research-award): These grants are administered through the [Latin American and Caribbean Studies Institute](https://lacsi.uga.edu/) (though they aren't always referred to as Tinker Grants) and are designed to fund research for the completion of MA thesis or doctoral dissertations. The deadline for submitting applications is usually early to mid Spring. If you would like a sample application or comments on your application, just ask me or one of your other professors; we are always glad to help.
 3. [Willson Center Graduate Research Award](https://willson.uga.edu/opportunities/fellowships-grants/willson-grants-awards/): The Willson Center offers opportunities for Graduate Students, in particular the **Graduate Research Award**, with deadlines in September and January. This award provides support of up to \$1,250 (subject to change) to arts and humanities graduate students for relevant expenses related to completion of their degrees. Graduate students may be supported in travel to archives, installations and performances. Reason must be given for support of the proposed activity in context of research excellence. There are two deadlines during the year: <font size="3" color="red">August 29</font> and <font size="3" color="red">January</font>. The Willson Center also provides funds for travel to conferences and professional meetings. 
 4. **Funds for Graduate Student Travel**: Though the funds are limited (and the competition fierce), you should consider applying for travel funds through the [Graduate School](https://grad.uga.edu/). The funds are usually just for Doctoral students, but it never hurts to ask. There are also funds available through the the Department of Romance Languages and the Department of Linguistics.
 5.  **Dissertation Completion Award** This is a highly competitive award for doctoral students who have passed to candidacy (i.e. ABD). This awards typically requires nomination and selection at the Departmental level. The applications are typically due in the spring, but if you're interested you should inquire early.
-6. [The Dolores Artau Scholarship*](https://rom.uga.edu/dolores-artau-scholarship): The Department of Romance Languages has a limited number of funding opportunities available to grad students (e.g., the Dolores Artau Scholarship).
+6. [The Dolores Artau Scholarship](https://rom.uga.edu/dolores-artau-scholarship): The Department of Romance Languages has a limited number of funding opportunities available to grad students (e.g., the Dolores Artau Scholarship).
 7. [Pivot COS](https://pivot.proquest.com/) is a subscription database of more than 25,000 funding opportunities from numerous sponsors across all disciplines. UGA faculty, students, and staff can search the database and create custom email funding alerts based on the criteria provided by the individual COS user. You can also share funding opportunities with groups, and save and track opportunities. It's a \textbf{very} useful tool. I would recommend that you start using it immediately. The library offers [a nice tutorial on how to use this resource](https://guides.libs.uga.edu/grants/pivot).
 8. **Fulbright Grants for student research abroad**: This is a great source of funds. The deadline is usually sometime in the early fall.
 
+There are of course other sources of funding that you can take advantage of. If you happen to run across any others that look particularly appealing, let me know. In all of these cases, I will be happy to provide you with letters of support.
+
+
 ----
 
+# Prospectus Outline
 
-# Guidelines for Good Practice in Graduate Education
+The following are guidelines for preparing your thesis or dissertation prospectus (prepared by Dr. Margaret Lubbers Quesada). Your prospectus should be approximately 10 pages (for MA thesis) or 20+ pages (for dissertation).
+
+1. **Statement of Problem** (1/2-1 page): What is the problem to be studied and why is it of interest?  Illustrate with examples and mention 2-3 sources/studies that have been carried out covering this topic.
+2.	**Review of the literature** (4-6 pages) In this section, you will briefly describe the studies that have been carried out on this topic and upon which your own research is based.  For each study, include what the purpose was, what the methodology was (who the participants were, what the instruments were, how the data were analyzed), and what the results were.  Use this section to justify your research and specifically, point out how these studies are related to yours and what your study will do to answer questions about the topic that these studies do not answer.  For the prospectus, 6-8 studies should be reviewed.  For the thesis, you will expand this section to 10-12 studies. At the end of this section, it should clear to your readers what the open questions in the literature are.
+3.	**Research questions and/or hypotheses** (1/2-1 page): You should have 2-3 questions that will guide your research.  If there has been enough research done on the topic or if you are choosing an experimental or quasi-experimental design, you can postulate hypotheses, which should result from the questions.  For example, a research question might be:  *Do Spanish/English bilinguals have higher rates of overt subject expression in Spanish than monolinguals?*  And the hypothesis set up to answer the question would be:  *Spanish/English bilinguals have higher rates of overt subject expression due to contact with English*.  The hypotheses have to be worded so that they are testable and falsifiable.  Also, define any terms that have not been defined in the literature review.
+4.	**Methodology** (2-3 pages):  Include in this section, the following:
+			+ **Participants** (age, language level or knowledge, gender, social or economic level if related to research questions).
+			+ **Context** (i.e. where the data will be gathered)
+			+ **Instruments** (if you have already worked out the data collection instrument(s), attach this as an appendix)
+			+  Procedure for collecting data
+			+ Procedures for analysis including any statistical analyses that may be applied
+5. **Expected results and conclusions** (1/2-1 page): Discuss to what extent you expect to answer your research questions and/or prove or disprove your hypotheses.
+6. **References**: For linguistics and applied linguistics thesis, the [LSA format is preferred](http://www.linguisticsociety.org/files/style-sheet.pdf) but you can also use the APA or MLA formats. 
 
 
 [Section](#expectations)
