@@ -167,9 +167,18 @@ The process of completing a PhD is, to put it bluntly, difficult, as it should b
 
 In this section, I've provided some information regarding the process of choosing a major professor. If you're considering working with me, please be sure to read the section above on expectations (section **section:Expectations**). Ideally, you and your Major Professor should be on the same page about what the expected work flow will be. Should we decide that working together is in your and your project's best interest, we will put together a Mentor-Mentee compact document that outlines the structure of our partnership. The Graduate School [provides examples of these compacts](https://grad.uga.edu/wp-content/uploads/2018/01/UAB-Mentor-Compact-adpated.pdf).
 
-## Selecting a Chair and Comittee
 
-Source: Lunenburg, F. and D. Irby. (2008). [Writing a Successful Thesis or Dissertation: Tips and Strategies for Students in the Social and Behavioral Sciences](https://www.amazon.com/Writing-Successful-Thesis-Dissertation-Strategies/dp/141294225X). Thousand Oaks, CA: SAGE.
+## Selecting a Chair and Comittee {-}
+
+
+----
+<center>
+
+Lunenburg, F. and D. Irby. (2008). [Writing a Successful Thesis or Dissertation: Tips and Strategies for Students in the Social and Behavioral Sciences](https://www.amazon.com/Writing-Successful-Thesis-Dissertation-Strategies/dp/141294225X). Thousand Oaks, CA: SAGE.</center>
+
+
+----
+
 
 Selecting your committee is a very important step in the process of preparing your dissertation or master's thesis. The chairperson of the committee usually has broad power and influence throughout the process of completing the dissertation or master's thesis.Therefore, the selection of a chairperson for your project is a very important decision. In collaboration with your chair and committee, you will delimit your topic, develop your proposal, conduct your research, and write your dissertation or master's thesis. Ultimately, your committee will judge the quality of your project. In this chapter, we present some suggestions that might help you in selecting your dissertation or thesis chair and other committee members.
 
@@ -221,12 +230,39 @@ Students also have personal preferences with whom they want to work, in general.
 Faculty members often differ concerning their preferences for a particular research method.  A research method comprises the strategy followed in collecting and analysing data.  The major distinction in classifying research by method is the distinction between quantitative and qualitative research 
 [@gay_educational_2006].  Quantitative and qualitative research can be broken down further into several distinct types, each designed to answer a different kind of research question.  Quantitative research involves the collection and analysis of numerical data, which are usually rendered in the form of statistics.  Advocates of quantitative studies tend to prefer such types as descriptive (or survey), correlational, causal-comparative, and experimental research.  Proponents of such studies claim that their work is done from within a value-free framework [@denzin_sage_2005].
 
-Qualitative research involves mostly nonnumerical data, such as extensive notes taken at a research site, interview data, videotape and audiotape recordings, and other nonnumerical artifacts.  Qualitative researchers stress the socially constructed nature of reality, the intimate relationship between the researcher and the participant, and the situational constraints that shape inquiry.  Qualitative researchers emphasize the value-laden nature of inquiry (Denzin Lincoln 2005). Proponents of qualitative studies tend to favor such research approaches as case study, ethnography, ethology, ethnomethodology, grounded theory, phenomenology, symbolic interaction, and historical research.
+Qualitative research involves mostly nonnumerical data, such as extensive notes taken at a research site, interview data, videotape and audiotape recordings, and other nonnumerical artifacts.  Qualitative researchers stress the socially constructed nature of reality, the intimate relationship between the researcher and the participant, and the situational constraints that shape inquiry.  Qualitative researchers emphasize the value-laden nature of inquiry [@denzin_sage_2005]. Proponents of qualitative studies tend to favor such research approaches as case study, ethnography, ethology, ethnomethodology, grounded theory, phenomenology, symbolic interaction, and historical research.
 
 You need to examine the match between your preference and your potential chair's preference for a research method. Many faculty members accept both quantitative and qualitative research methods, including the authors of this text.  We believe that the issue is not which method is better, but rather which method (quantitative, qualitative, or mixed methods) will best answer the particular research question or direction of inquiry.
 
 
-## Questions to consider in selecting an advisor
+## Questions to consider in selecting an advisor {-}
+
+These questions have been adapted from a document prepared by the Graduate School at the University of Pittsburgh.
+
+1. Is the advisor an expert in the area of research or scholarship that you intend to pursue? Is his/her critical or theoretical orientation consistent with yours?
+2. How much freedom will you have in your choice of dissertation topic with this advisor?
+3. What is the reputation of the advisor within the discipline?
+4. How responsive is the advisor? How long does it take him/her to return written material with comments?
+5. How accessible is the advisor for discussion?
+6. Is the advisor likely to remain on the faculty for the duration of your degree work?
+7. How many students does he/she advise? If none, why? If a large number, does this affect the attention that he/she pays to individual students?
+8. How much time does he/she spend away from campus? Is he/she available during the summer?
+9. How long do students take to complete their degrees with this advisor?
+10. What proportion of this advisor's students successfully complete the program?
+11. What is the placement record of this advisor's students? Where do they get jobs?
+12. Does the advisor publish with his/her students as first author?
+13. How many publications does the typical student accumulate with this advisor?
+14. Do the advisor's students go to disciplinary or professional conferences?
+15. Do the advisor's students make presentations of their own work at conferences? Do they make presentations of joint work with the advisor?
+16. How much interaction is there with other advisees of this faculty member? Does he/she direct a research group or rather a series of individuals?
+17. How much of the research is collaborative with the advisor and/or other advisees?
+18. How much involvement is expected in ``group'' research projects that are not appropriate for inclusion in your dissertation? How much of this contributes to your professional development and marketability?
+19. How is credit for collaborative work assigned?
+20. Is the advisor's work funded? What are the guarantees of funding for the advisor's students? Do the advisor's students get summer support?
+21. Does the advisor assist his/her students in obtaining their own funding from outside sources such as fellowship programs?
+22. Does the advisor have good relations with other faculty in the program?
+23. Does the advisor have a reputation for ethical behavior?
+24. Are the advisor's work habits compatible with your own?
 
 
 ----
