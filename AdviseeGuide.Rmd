@@ -264,23 +264,38 @@ These questions have been adapted from a document prepared by the Graduate Schoo
 23. Does the advisor have a reputation for ethical behavior?
 24. Are the advisor's work habits compatible with your own?
 
+> **_Note_** Not all of these questions are equally important when choosing a Major Professor to direct an MA thesis. You should, however, consider these issues when choosing someone to work with, whether it be at the MA or the PhD level. Also, don;t be afraid to ask your professors for ideas about topics. At the MA level, you aren't necessarily expected to come armed with a full-fledged research topic in hand.
+
 
 ----
-
 
 
 # A Guide to Your Research
 
+> **_Note_** This section is still very much under construction [insert animated icon of worker here].
+
+Much of the following information is summarized from [How to Be a Successful PhD Student](http://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf) (by Mark Dredze at Johns Hopkins University and Hanna M. Wallach University of Massachusetts Amherst). The this document is directed primarily at doctoral students, though much of the advice applies equally well for MA students.
+
 ## Managing your time
 
+Transitioning into a graduate program (especially if you're teaching) involves a good deal of time management. It's often difficult (at least it was for me) to start thinking of your chosen discipline (e.g., Spanish, linguistics) as a job rather than as a hobby. It will help if you start treating your time as you would if you had a `normal', 9-to-5 job.
+
+1. You are in graduate school, and **research** should be your main focus. Developing good habits in your teaching is certainly important at this stage. But your the lion's share of your attention should be paid to your research agenda. As Dredze and Wallach note, ``[d]o well enough in your [teaching] but focus on publishing high quality research papers.''
+2. **Interacting** with other students in your program (and from other programs) is crucial. Research should not be done (at least not exclusively) by yourself alone in a room with books. Create mechanism for getting feedback from your colleagues.
+3. Keeping a **regular work schedule** in graduate school is crucial. This is especially true as you move into the thesis or dissertation writing phase.
+4. You should **keep a work log**. This should include (a) projects that you're developing, (b) ideas you have about those projects, (c) records for data gathering/analysis. As a linguist, having a notebook to jot down the quirky and interesting things that people say will become second nature. Many famous papers started out as doodles and scribbled notes.
+
 ## Research
+
+1. **Read!** Much of the time you spend doing `research' should be spent (1) reading articles, books, chapters, etc. related to your work and (2) (re-)reading your own work. Keeping up with the current trends in the discipline means investing considerable time in reading other people's (and your own) research.
+2. Coming up with a topic is perhaps one of the most difficult parts of the research process. Dredze and Wallach provide a nice overview of how to approach this issue. Keep in mind that if you plan to have a career in academia, there will be plenty of time for you to work on different topics down the road (thus the need for a notebook to write down those ideas).
 
 
 ----
 
-
 # Funding resources
 
+If you plan to work with me, chances are that you will be encouraged/required (1) to conduct fieldwork as part of your thesis/dissertation project and (2) attend conferences. All these endeavors cost money, but fortunately there are some funds available for you (as well as access to the types of equipment you'll need to actually conduct your work). Here are a few possible sources that you should consider when planning your research projects.
 
 
 ----
