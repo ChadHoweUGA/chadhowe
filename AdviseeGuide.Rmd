@@ -2,7 +2,7 @@
 title: "Advisee Guide"
 bibliography: references.bib
 output: 
-  html_document:
+  html_document2:
     toc: true
     number_sections: true
     toc_float: true
@@ -34,7 +34,7 @@ If you are a graduate assistant at UGA, you will have a number of duties related
 You should also be prepared to treat your teaching (like your research) as another opportunity for professional development. As such, I highly recommend consulting with the [UGA Center for Teaching and Learning](https://ctl.uga.edu/) which offers, among many other programs, a wide range of [opportunities for Graduate Students](https://ctl.uga.edu/grad-student/). Again, my primary focus regarding your education at UGA is helping you develop and execute a successful research program. But you should always look out for ways of improving your teaching.
 
 ## Submitting and Revising
-At some point in your program (preferably sooner rather than later), I will give you a schedule specific to your program. This schedule will include dates for turning in different pieces of your MA thesis or dissertation. Regarding submission of materials, please keep in mind the following. Before any materials (in particular, chapters of a thesis or a dissertation) are submitted to the other members of your advisory committee, they will need to be approved by me. I will need to provide feedback on your work before you send it out to others. When you do submit something to me (and to others), it should be as polished as possible. **Do not** submit a set of bulleted notes and expect to get feedback. Finally, regarding turn-around times (see also section **section:SelectChair**), my goal is to give you feedback on your work **no later than two weeks after submission**. I will make every effort to get your work returned to you in a timely manner.
+At some point in your program (preferably sooner rather than later), I will give you a schedule specific to your program. This schedule will include dates for turning in different pieces of your MA thesis or dissertation. Regarding submission of materials, please keep in mind the following. Before any materials (in particular, chapters of a thesis or a dissertation) are submitted to the other members of your advisory committee, they will need to be approved by me. I will need to provide feedback on your work before you send it out to others. When you do submit something to me (and to others), it should be as polished as possible. **Do not** submit a set of bulleted notes and expect to get feedback. Finally, regarding turn-around times (see also the [section on Selecting a Chair and Committee](#selecting-a-chair-and-committee), my goal is to give you feedback on your work **no later than two weeks after submission**. I will make every effort to get your work returned to you in a timely manner.
 
 Also, you should feel free (and in fact obliged) to send me other submissions that you might be working on. In particular, I will be happy to read drafts of conference abstracts and journal/proceedings submissions. At the very least, you should have one other set of eyes reviewing your work before you send it out. I (and your committee members) will certainly be available to give you feedback on these items.
 
@@ -169,7 +169,7 @@ The process of completing a PhD is, to put it bluntly, difficult, as it should b
 In this section, I've provided some information regarding the process of choosing a major professor. If you're considering working with me, please be sure to read the section above on expectations (section **section:Expectations**). Ideally, you and your Major Professor should be on the same page about what the expected work flow will be. Should we decide that working together is in your and your project's best interest, we will put together a Mentor-Mentee compact document that outlines the structure of our partnership. The Graduate School [provides examples of these compacts](https://grad.uga.edu/wp-content/uploads/2018/01/UAB-Mentor-Compact-adpated.pdf).
 
 
-## Selecting a Chair and Comittee {-}
+## Selecting a Chair and Committee {-}
 
 
 ----
@@ -180,7 +180,7 @@ Lunenburg, F. and D. Irby. (2008). [Writing a Successful Thesis or Dissertation:
 
 ----
 
-
+\@ref(#selecting-a-chair-and-committee)
 Selecting your committee is a very important step in the process of preparing your dissertation or master's thesis. The chairperson of the committee usually has broad power and influence throughout the process of completing the dissertation or master's thesis.Therefore, the selection of a chairperson for your project is a very important decision. In collaboration with your chair and committee, you will delimit your topic, develop your proposal, conduct your research, and write your dissertation or master's thesis. Ultimately, your committee will judge the quality of your project. In this chapter, we present some suggestions that might help you in selecting your dissertation or thesis chair and other committee members.
 
 Before choosing a faculty member as your chairperson, consider the chair's role. As mentioned previously, your chair will have broad  power and influence over the dissertation or thesis process. While the specifics of this role vary from institution to institution, from department to department, and from chairperson to chairperson, some general functions of the chair are relatively universal.  First, the chairperson will approve your dissertation or thesis topic.Second, the chairperson will approve, in consultation with you, the other committee members. Third, the chairperson will approve every line, section, and chapter of the dissertation.  Fourth, the chairperson will determine how committee members will be involved in the dissertation or thesis process.Fifth, the chairperson will decide when you are ready to defend your dissertation or master's thesis. And, ultimately, the chairperson will determine whether you will be granted the degree.
