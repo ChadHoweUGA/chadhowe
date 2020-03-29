@@ -20,7 +20,7 @@ params:
 # Expectations {#id}
 Below you will find details regarding my expectations as a major professor. Our mutual agreement to work together as advisor/advisee entails that you accept the conditions outlined throughout this document. Please remember that these expectations go both ways and that you should feel free to ask me about my approach to advisees.
 
-Choosing a major professor is an important first step in completing your graduate education. Keep in mind that if you have not had a class with a particular faculty member, it is not likely that this professor will be a suitable advisor. In fact, if you have not had a class with me, **do not** ask me to be your major professor; I will say no. In [Section 4](#4_you_and_your_major_professor), I have provided some questions that you might ask as you consider who your major professor might be. This decision will be different for MA and PhD students, though some of the same criteria may apply.
+Choosing a major professor is an important first step in completing your graduate education. Keep in mind that if you have not had a class with a particular faculty member, it is not likely that this professor will be a suitable advisor. In fact, if you have not had a class with me, **do not** ask me to be your major professor; I will say no. In [Section 4](#you-and-your-major-professor), I have provided some questions that you might ask as you consider who your major professor might be. This decision will be different for MA and PhD students, though some of the same criteria may apply.
 
 ## Collaborative Research
 For anyone considering asking me to be his/her major professor, you will be expected to participate in some type of collaborative research with me. Collaborative research could include, for example, a conference presentation, a publication, or a joint grant application. MA students who choose to complete a thesis will be strongly encouraged to choose a research topic that complements my own research agenda. In linguistics, working with collaborative projects has become increasingly common, and I encourage this type of work with all my students. You should take advantage of your time as a graduate student to learn how to work on group research.
@@ -164,7 +164,7 @@ The process of completing a PhD is, to put it bluntly, difficult, as it should b
 
 ----
 
-# You and Your Major Professor
+# You and Your Major Professor {#you-and-your-major-professor}
 
 In this section, I've provided some information regarding the process of choosing a major professor. If you're considering working with me, please be sure to read the section above on expectations (section **section:Expectations**). Ideally, you and your Major Professor should be on the same page about what the expected work flow will be. Should we decide that working together is in your and your project's best interest, we will put together a Mentor-Mentee compact document that outlines the structure of our partnership. The Graduate School [provides examples of these compacts](https://grad.uga.edu/wp-content/uploads/2018/01/UAB-Mentor-Compact-adpated.pdf).
 
